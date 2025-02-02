@@ -14,7 +14,7 @@ categories: labs
 Complete the following short survey to let me know about your preparation coming into the course. You will find the survey at [https://docs.google.com/forms/d/e/1FAIpQLSdfcMDumve4JPBdPMZt6J4woizHx_NBT_Sv-_lBugdeT-odog/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdfcMDumve4JPBdPMZt6J4woizHx_NBT_Sv-_lBugdeT-odog/viewform).
 Please note that the form will collect your umich email address so that I can track participation.
 
-You can also find this assignment on Canvas at the [canvas link]({{ page.canvas-link }})
+You can also find this assignment on Canvas at the [canvas link]({{ page.canvas-link }}).
 
 ## Additional information
 
