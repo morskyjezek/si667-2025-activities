@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: SI 667 Activities (Winter 2025)
+title: SI 667 Activities
 email: jajohnst@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This site provides information about the interactive activities,
-  lab answers, and occasional tutorial or "how to" guides for
-  activities related to "Foundations of Digital Curation"
-  (SI 667) at the University of Michigan School of Information,
-  as delivered in the Winter 2025 term.
+  This site is for interactive activities,
+  lab answers, and occasional tutorial guides for
+  "Foundations of Digital Curation"
+  (SI 667), a course at the University of Michigan School of Information
+  in the Winter 2025 term.
 baseurl: "/si667-2025-activities" # the subpath of your site, e.g. /blog
 url: "https://morskyejezek.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  morskyjezek
@@ -34,6 +34,7 @@ course_data_repo_link: https://github.com/morskyjezek/si667-2025
 site_jekyll_files: https://github.com/morskyjezek/si667-2025-activities
 syllabus_link: https://docs.google.com/document/d/1bVVZSABYmp2wdp-XDkY2KNNSwMsO6ZYpgKmhmjU91dE/edit?usp=sharing
 instructor_link: https://www.si.umich.edu/people/jesse-johnston
+instructor_name: "Jesse A. Johnston"
 
 # Build settings
 #theme: cayman
