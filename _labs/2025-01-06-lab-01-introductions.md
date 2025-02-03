@@ -6,15 +6,10 @@ assigned: 2025-01-09
 due: 2025-01-13
 key:
 canvas-link: https://umich.instructure.com/courses/733396/assignments/2649538
-categories: labs
+categories: lab
 ---
 
-##
-
-Complete the following short survey to let me know about your preparation coming into the course. You will find the survey at [https://docs.google.com/forms/d/e/1FAIpQLSdfcMDumve4JPBdPMZt6J4woizHx_NBT_Sv-_lBugdeT-odog/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdfcMDumve4JPBdPMZt6J4woizHx_NBT_Sv-_lBugdeT-odog/viewform).
-Please note that the form will collect your umich email address so that I can track participation.
-
-You can also find this assignment on Canvas at the [canvas link]({{ page.canvas-link }}).
+Complete the following short survey to let me know about your preparation coming into the course. You will find the survey at the google form link in the assignment on Canvas at the [canvas assignment page]({{ page.canvas-link }}).
 
 ## Additional information
 

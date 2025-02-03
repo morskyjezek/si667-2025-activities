@@ -22,7 +22,7 @@ title: SI 667 Activities
 email: jajohnst@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This site publishes lab activities
-  and occasional tutorial guides for
+  and tutorial guides for
   "Foundations of Digital Curation"
   (SI 667), a course at the University of Michigan School of Information
   in the Winter 2025 term.
@@ -37,12 +37,11 @@ instructor_link: https://www.si.umich.edu/people/jesse-johnston
 instructor_name: "Jesse A. Johnston"
 
 # Build settings
-#theme: cayman
-#remote_theme: pages-themes/cayman@v0.2.0
-remote_theme: pages-themes/minimal@v0.2.0
+theme: minima
+#remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
