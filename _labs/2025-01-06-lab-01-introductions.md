@@ -1,5 +1,5 @@
 ---
-layout: default #post
+layout: post
 title:  "Lab 1: Introductions and Survey"
 date:   2025-01-04
 assigned: 2025-01-09
