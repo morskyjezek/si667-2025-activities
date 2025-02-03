@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default #post
 title:  "Welcome to SI 667!"
 date:   2025-01-02 17:05:50 -0500
 categories: update
