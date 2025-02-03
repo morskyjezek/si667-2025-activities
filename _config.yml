@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   (SI 667), a course at the University of Michigan School of Information
   in the Winter 2025 term.
 baseurl: "/si667-2025-activities" # the subpath of your site, e.g. /blog
-url: "https://morskyejezek.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://morskyjezek.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  morskyjezek
 
 course_data_repo_link: https://github.com/morskyjezek/si667-2025
