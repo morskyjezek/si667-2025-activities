@@ -1,0 +1,21 @@
+{% assign labs_list = site.labs | where: "categories", "lab" | sort: due | reverse %}
+
+<table>
+    <!-- <caption>Table of Lab Activities</caption> -->
+    <thead>
+        <tr>
+            <th scope="col">Title and Link</th>
+            <th scope="col">Solution Key</th>
+            <th scope="col">Due Date</th>
+            <th scope="col">Canvas link</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for lab in labs_list %}<tr> 
+            <td><a href="{{ lab.url | relative_url }}">{{ lab.title }}</a></td> 
+            <td>{% if lab.key %}<a href="{{ site.url }}{{ site.baseurl }}/labs/{{ lab.key }}">Key</a>{% endif %}</td>
+            <td>{{ lab.due | date: "%e %B %Y" | lstrip }}</td>
+            <td><a href="{{ lab.canvas-link }}">Canvas link</a></td>
+        </tr>{% endfor %}
+    </tbody>
+</table>
