@@ -4,3 +4,12 @@
 
 layout: home
 ---
+
+Welcome to the SI 667 "activities" page! Below you will see a table of
+currently assigned lab activities. For those that have passed,
+you will also find a link to the "key," which provides explanation
+and solutions for each question.
+
+# Labs
+
+{% include labs-list.html %}
