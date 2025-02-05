@@ -5,11 +5,16 @@ layout: home
 display-posts: false
 ---
 
-Welcome to the SI 667 "activities" page! Below you will see a table of
-currently assigned lab activities. For those that have passed,
+Welcome to the SI 667 resources page! 
+This site is a public reference that supports the course.
+This main page lists the labs and guides that will be of use as you complete assigned work.
+The page will be updated over the course of the term.
+
+# Labs {#labs}
+
+Below you will see a table of currently assigned lab activities.
+For those activities that have completed,
 you will also find a link to the "key," which provides explanation
-and solutions for each question.
+and/or solutions for each question.
 
-# Labs
-
-{% include labs-list.html %}
+{% include labs-table.html %}
