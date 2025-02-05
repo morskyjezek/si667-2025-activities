@@ -40,7 +40,7 @@ Use the file command to inspect files. Start by looking through all of the files
 
 ## Problem 4 {#problem-4}
 
-In the previous two problems you created a checksum and listed file types. Do you think this information would be useful to keep as "preservation desciption information"? Why or why not? What benefit is outputting this information to a file that you might want to keep with the folder if you were going to hang on to it for a while?
+In the previous two problems you created checksums and listed file types. Do you think this information would be useful to keep as "preservation desciption information"? Why or why not? What benefit is outputting this information to a file that you might want to keep with the folder if you were going to hang on to it for a while?
 
 ## Problem 5 {#problem-5}
 
