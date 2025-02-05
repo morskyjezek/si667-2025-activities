@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  "Lab 4: File Metadata 1"
-date:   2025-01-29
+layout:   post
+title:    "Lab 4: File Metadata 1"
+date:     2025-01-29
 assigned: 2025-01-30
-due: 2025-02-04
-key: #lab-4-key
+due:      2025-02-04
+key:      lab-4-key
 canvas-link: https://umich.instructure.com/courses/733396/assignments/2649541
 categories: lab
 ---
