@@ -27,8 +27,8 @@ This lab asks you to explore concepts and tools related to file identification a
 Use the file command to inspect files. Start by looking through all of the files in the `PKG-text-data` directory.
 
 1. First, determine how many files you're looking at (use `wc`). What is the command? How many files are there?
-2. Create a command to run file so that it loops through all of the files in the `PKG-text-data/` directory and outputs file characterization information to the terminal display. Examine the results. These are all "text files" but there are different results. Can you identify different text encodings? What else does the output tell you about the files?
-3. Reuse the loop you created above to save the output to a file called `text-file-types.txt`.
+2. Create a command to run `file` so that it looks at all of the files in the directory (e.g., with a filter `*`), and so that it outputs information for all of the files in the `PKG-text-data/` directory. The goal is to print file characterization information to the terminal display. Examine the results. These are all "text files" but there are different results. Can you identify different text encodings? What else does the output tell you about the files?
+3. Reuse the command you created above to save the output to a file called `text-file-types.txt`.
 
 ## Problem 3: Checksums {#problem-3}
 
