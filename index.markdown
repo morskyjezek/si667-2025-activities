@@ -18,3 +18,9 @@ you will also find a link to the "key," which provides explanation
 and/or solutions for each question.
 
 {% include labs-table.html %}
+
+# Guides {#guides}
+
+Below is a list of guides that explain various tools and processes in more detail:
+
+{% include guides-list.html %}
