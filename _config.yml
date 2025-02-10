@@ -31,6 +31,7 @@ url: "https://morskyjezek.github.io" # the base hostname & protocol for your sit
 github_username:  morskyjezek
 
 course_data_repo_link: https://github.com/morskyjezek/si667-2025
+course_data_download_link: https://github.com/morskyjezek/si667-2025/archive/refs/heads/main.zip
 site_jekyll_files: https://github.com/morskyjezek/si667-2025-activities
 syllabus_link: https://docs.google.com/document/d/1bVVZSABYmp2wdp-XDkY2KNNSwMsO6ZYpgKmhmjU91dE/edit?usp=sharing
 instructor_link: https://www.si.umich.edu/people/jesse-johnston
