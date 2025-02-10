@@ -1,6 +1,6 @@
 {% assign guides_list = site.posts | where: "categories", "guides" %}
+
 {% if guides_list.size > 0 %}
-<h2 class="post-list-heading" id="guides">Guides</h2>
 <ul class="post-list">
     {% for guide in guides_list %}
     <li>
