@@ -25,7 +25,7 @@ If you're running on a different style of system (like Windows), the instruction
 
 Brunnhilde is a python-based tool, so you can install it as you would other Python extensions using `pip`. The process is explained on the tool's site: [https://github.com/tw4l/brunnhilde#installation](https://github.com/tw4l/brunnhilde#installation).
 
-If those instructions aren't working well, here is a [Windows-specific walkthrough of the installation process](https://docs.google.com/document/d/1LKZA3ahzkM-Ic7w17f-doHIA342oKoS8kxROPKYOtqI/edit?usp=sharing). ({% post_url 2025-02-05-guide-running-brunnhilde-windows %}) 
+If those instructions aren't working well, here is a [Windows-specific walkthrough of the installation process](https://docs.google.com/document/d/1LKZA3ahzkM-Ic7w17f-doHIA342oKoS8kxROPKYOtqI/edit?usp=sharing). ({{ site.baseurl }}{% post_url 2025-02-05-guide-running-brunnhilde-windows %}) 
 
 # Check if the tools are running
 
