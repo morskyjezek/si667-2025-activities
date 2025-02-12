@@ -4,7 +4,7 @@ title:    "Lab 5: File Metadata 2 - Embedded Metadata and Inventorying"
 date:     2025-02-04
 assigned: 2025-02-07
 due:      2025-02-13
-key:      #lab-5-key
+key:      lab-5-key
 canvas-link: https://umich.instructure.com/courses/733396/assignments/2649542
 categories: lab siegfried brunnhilde metadata inventory
 ---
@@ -32,10 +32,10 @@ sf si667-2025/ > sf_out/sf_fileid_report_202502.yaml
 ```
 Now what happens? What did the command do?
 3. The previous command should have created some new files in the `sf_out` directory. Open the `sf_out` directory and look around. Answer the following:
-  1. What did the command do?
-  2. What does the file tell you?
-  3. Open the new file in a text editor (e.g., VS Code). How would you characterize the data presented in the file?
-  4. Does anything strike you as particularly useful? What is odd or questionable about the output?
+    1. What did the command do?
+    2. What does the file tell you?
+    3. Open the new file in a text editor (e.g., VS Code). How would you characterize the data presented in the file?
+    4. Does anything strike you as particularly useful? What is odd or questionable about the output?
 
 ## Problem 3: Running Brunnhilde {#problem-3}
 
