@@ -13,6 +13,7 @@ categories: brunnhilde siegfried guides windows
 2. Open up Visual Studio Code, and open a new Terminal pane there.
 3. At the terminal prompt, you can use the pip command to install Brunnhilde: `pip install brunnhilde`.  
 _If this doesn't work, you can try running `pip` as a module thus: `% python -m pip isntall brunnhilde`._
-4. Now, you can call brunnhilde with the command `brunnhilde.py [arguments]` as you would other python programs.
-
-Google doc version: https://docs.google.com/document/d/1LKZA3ahzkM-Ic7w17f-doHIA342oKoS8kxROPKYOtqI/edit?usp=sharing
+![Installing brunnhilde using python pip install]({{site.url }}{{ site.baseurl }}/assets/brunnhilde-pip-install.png "Installing brunnhilde using python pip install"){:style="border: 1px solid black;"}
+4. Now, you can call brunnhilde with the command `brunnhilde.py [arguments]` as you would other python programs.  
+_Note that you may need to run this as a "module", something like this:_  
+`python -m brunnhilde [arguments]`
